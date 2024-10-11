@@ -8,7 +8,7 @@ Welcome to the Pong Game repository! This is a simple implementation of the clas
 ## Features
 - Two-player mode with controls for both players.
 - Smooth ball movement and paddle control.
-- Score tracking for both players.
+- Score tracking.
 - Color toggle every 5 points to switch between dark and light modes.
 
 ## Usage
